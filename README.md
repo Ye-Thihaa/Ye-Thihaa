@@ -83,7 +83,7 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ye-Thiha84&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ye-Thihaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ye-Thiha84&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 </div>
 
@@ -93,7 +93,7 @@
 
 ## 🔥 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ye-Thiha84&bg_color=0D1117&color=58A6FF&line=79C0FF&point=FF6B6B&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ye-Thihaa&bg_color=0D1117&color=58A6FF&line=79C0FF&point=FF6B6B&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ## 🎯 Current Focus
