@@ -111,17 +111,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ye-Thihaa&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
 
 <div align="center">
   <h3>💖 Thanks for visiting! Have a great day! 💖</h3>
