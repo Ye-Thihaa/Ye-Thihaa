@@ -72,7 +72,7 @@ Interested in advanced React patterns, system design, and open source collaborat
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Ye-Thihaa/Ye-Thihaa/main/profile-3d-contrib/profile-gitblock.svg" />
+    srcset="https://raw.githubusercontent.com/Ye-Thihaa/Ye-Thihaa/main/profile-3d-contrib/profile-night-rainbow.svg" />
   <source media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/Ye-Thihaa/Ye-Thihaa/main/profile-3d-contrib/profile-season-animate.svg" />
   <img alt="3D contribution graph"
