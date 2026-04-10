@@ -1,117 +1,112 @@
-# 👋 Hi there!
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Frontend-Developer;Always+learning+new+things;Building+amazing+projects!" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-## 💻 Tech Stack
-
 <div align="center">
 
-### 🎯 **Languages & Core Technologies**
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+```
+██╗   ██╗███████╗    ████████╗██╗  ██╗██╗██╗  ██╗ █████╗  █████╗ 
+╚██╗ ██╔╝██╔════╝    ╚══██╔══╝██║  ██║██║██║  ██║██╔══██╗██╔══██╗
+ ╚████╔╝ █████╗         ██║   ███████║██║███████║███████║███████║
+  ╚██╔╝  ██╔══╝         ██║   ██╔══██║██║██╔══██║██╔══██║██╔══██║
+   ██║   ███████╗       ██║   ██║  ██║██║██║  ██║██║  ██║██║  ██║
+   ╚═╝   ╚══════╝       ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=000000)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=000000)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000)
-
-</div>
-
-### 🎨 **Frontend & UI Magic**
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white&labelColor=000000)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=000000)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white&labelColor=000000)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&width=500&lines=Frontend+Developer+%2F%2F+Builder;React+%7C+Next.js+%7C+TypeScript;Shipping+fast%2C+breaking+things+slower.;console.log(%22still+debugging%22);)](https://git.io/typing-svg)
 
 </div>
 
-### ⚡ **Backend & Server Power**
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+---
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=000000)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=000000)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white&labelColor=000000)
+```bash
+$ whoami
+> full-stack developer | open source enthusiast | console.log enjoyer
+```
 
-</div>
+**Currently building** → Full-Stack Web Applications  
+**Currently studying** → Advanced React Patterns & System Design  
+**Looking to collab on** → Open Source Projects  
+**Ask me about** → Web Dev · APIs · Database Design  
+**Fun fact** → `console.log` is my debugger and I'm not ashamed 🐛
 
-### 🗄️ **Databases & Authentication**
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+---
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=000000)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=000000)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000)
+## `// TECH STACK`
 
-</div>
+**Languages**
 
-### 🚀 **Deployment & Cloud**
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+![C++](https://img.shields.io/badge/C++-00FFB3?style=flat-square&logo=cplusplus&logoColor=0D1117)
+![Java](https://img.shields.io/badge/Java-00FFB3?style=flat-square&logo=openjdk&logoColor=0D1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-00FFB3?style=flat-square&logo=javascript&logoColor=0D1117)
+![Python](https://img.shields.io/badge/Python-00FFB3?style=flat-square&logo=python&logoColor=0D1117)
+![TypeScript](https://img.shields.io/badge/TypeScript-00FFB3?style=flat-square&logo=typescript&logoColor=0D1117)
 
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white&labelColor=000000)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=000000)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=000000)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000)
+**Frontend**
 
-</div>
+![React](https://img.shields.io/badge/React-00D4FF?style=flat-square&logo=react&logoColor=0D1117)
+![Next.js](https://img.shields.io/badge/Next.js-00D4FF?style=flat-square&logo=next.js&logoColor=0D1117)
+![Astro](https://img.shields.io/badge/Astro-00D4FF?style=flat-square&logo=astro&logoColor=0D1117)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-00D4FF?style=flat-square&logo=tailwind-css&logoColor=0D1117)
+![Three.js](https://img.shields.io/badge/Three.js-00D4FF?style=flat-square&logo=three.js&logoColor=0D1117)
 
-</div>
+**Backend**
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-aaaaaa?style=flat-square&logo=flask&logoColor=0D1117)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-aaaaaa?style=flat-square&logo=express&logoColor=0D1117)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=0D1117)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=0D1117)
+
+**Deploy & Cloud**
+
+![Vercel](https://img.shields.io/badge/Vercel-white?style=flat-square&logo=vercel&logoColor=0D1117)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=0D1117)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=0D1117)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=0D1117)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+## `// GITHUB STATS`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ye-Thihaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ye-Thihaa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Ye-Thihaa&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FFB3&text_color=00D4FF&icon_color=00FFB3&ring_color=00FFB3" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ye-Thihaa&layout=compact&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FFB3&text_color=00D4FF" />
 </div>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Ye-Thihaa&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=79C0FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Ye-Thihaa&theme=merko&hide_border=true&background=0D1117&stroke=00FFB3&ring=00D4FF&fire=00FFB3&currStreakLabel=00D4FF&sideLabels=00FFB3" />
 </div>
 
-## 🔥 Contribution Graph
+---
+
+## `// CONTRIBUTION GRAPH`
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ye-Thihaa&bg_color=0D1117&color=58A6FF&line=79C0FF&point=FF6B6B&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ye-Thihaa&bg_color=0D1117&color=00FFB3&line=00D4FF&point=00FFB3&area_color=00FFB320&area=true&hide_border=true" />
 </div>
 
-## 🎯 Current Focus
-- 🔭 Working on **Full-Stack Web Applications**
-- 🌱 Learning **Advanced React Patterns & System Design**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Web Development, APIs, and Database Design**
-- ⚡ Fun fact: **I debug with console.log and I'm not ashamed!**
+---
 
-## 🤝 Let's Connect!
+## `// CONNECT`
+
 <div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300FFB3?style=flat-square&logo=linkedin&logoColor=0D1117)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-%2300D4FF?style=flat-square&logo=twitter&logoColor=0D1117)](https://twitter.com/your-handle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2300FFB3?style=flat-square&logo=google-chrome&logoColor=0D1117)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-%2300D4FF?style=flat-square&logo=gmail&logoColor=0D1117)](mailto:your.email@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-
-
-<div align="center">
-  <h3>💖 Thanks for visiting! Have a great day! 💖</h3>
+  `> thanks for visiting // stay curious // keep building`
 </div>
