@@ -68,13 +68,21 @@ Interested in advanced React patterns, system design, and open source collaborat
 
 ---
 
-**Contribution snake**
+**Contribution**
 
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ye-Thihaa/Ye-Thihaa/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ye-Thihaa/Ye-Thihaa/output/github-contribution-grid-snake.svg" />
   <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Ye-Thihaa/Ye-Thihaa/output/github-contribution-grid-snake.svg" />
+</picture>
+  <picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="profile-3d-contrib/profile-season-animate.svg" />
+  <img alt="3D contribution graph"
+    src="profile-3d-contrib/profile-night-rainbow.svg" />
 </picture>
 </div>
 
