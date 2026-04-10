@@ -65,11 +65,6 @@ Interested in advanced React patterns, system design, and open source collaborat
 
 **GitHub**
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ye-Thihaa&theme=onestar&no-frame=true&row=1&column=6)](https://github.com/Ye-Thihaa)
-
-</div>
 
 <div align="center">
 
@@ -77,20 +72,12 @@ Interested in advanced React patterns, system design, and open source collaborat
 
 </div>
 
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=Ye-Thihaa&style=flat-square&color=000000&label=profile+views)
-
-</div>
-
 ---
 
 **Connect**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-000?style=flat-square&logo=twitter)](https://twitter.com/your-handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=google-chrome)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-000?style=flat-square&logo=gmail)](mailto:your.email@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=google-chrome)](https://ysurf.vercek.com)
+[![Email](https://img.shields.io/badge/Email-000?style=flat-square&logo=gmail)](mailto:yethihahtun1494@gmail.com)
 
 ---
 
