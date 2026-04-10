@@ -1,112 +1,67 @@
 <div align="center">
 
-```
-██╗   ██╗███████╗    ████████╗██╗  ██╗██╗██╗  ██╗ █████╗  █████╗ 
-╚██╗ ██╔╝██╔════╝    ╚══██╔══╝██║  ██║██║██║  ██║██╔══██╗██╔══██╗
- ╚████╔╝ █████╗         ██║   ███████║██║███████║███████║███████║
-  ╚██╔╝  ██╔══╝         ██║   ██╔══██║██║██╔══██║██╔══██║██╔══██║
-   ██║   ███████╗       ██║   ██║  ██║██║██║  ██║██║  ██║██║  ██║
-   ╚═╝   ╚══════╝       ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
-```
+# Ye-Thihaa
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&width=500&lines=Frontend+Developer+%2F%2F+Builder;React+%7C+Next.js+%7C+TypeScript;Shipping+fast%2C+breaking+things+slower.;console.log(%22still+debugging%22);)](https://git.io/typing-svg)
+Frontend Developer — building clean, fast, thoughtful web experiences.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
 
 </div>
 
 ---
 
-```bash
-$ whoami
-> full-stack developer | open source enthusiast | console.log enjoyer
-```
+Currently building full-stack web applications and studying advanced React patterns & system design. Open to collaborating on meaningful open source projects.
 
-**Currently building** → Full-Stack Web Applications  
-**Currently studying** → Advanced React Patterns & System Design  
-**Looking to collab on** → Open Source Projects  
-**Ask me about** → Web Dev · APIs · Database Design  
-**Fun fact** → `console.log` is my debugger and I'm not ashamed 🐛
+> Ask me about web development, APIs, and database design.  
+> Fun fact: I debug with `console.log` and I'm not ashamed.
 
 ---
 
-## `// TECH STACK`
+## Stack
 
 **Languages**
-
-![C++](https://img.shields.io/badge/C++-00FFB3?style=flat-square&logo=cplusplus&logoColor=0D1117)
-![Java](https://img.shields.io/badge/Java-00FFB3?style=flat-square&logo=openjdk&logoColor=0D1117)
-![JavaScript](https://img.shields.io/badge/JavaScript-00FFB3?style=flat-square&logo=javascript&logoColor=0D1117)
-![Python](https://img.shields.io/badge/Python-00FFB3?style=flat-square&logo=python&logoColor=0D1117)
-![TypeScript](https://img.shields.io/badge/TypeScript-00FFB3?style=flat-square&logo=typescript&logoColor=0D1117)
+`C++` `Java` `JavaScript` `Python` `TypeScript`
 
 **Frontend**
-
-![React](https://img.shields.io/badge/React-00D4FF?style=flat-square&logo=react&logoColor=0D1117)
-![Next.js](https://img.shields.io/badge/Next.js-00D4FF?style=flat-square&logo=next.js&logoColor=0D1117)
-![Astro](https://img.shields.io/badge/Astro-00D4FF?style=flat-square&logo=astro&logoColor=0D1117)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-00D4FF?style=flat-square&logo=tailwind-css&logoColor=0D1117)
-![Three.js](https://img.shields.io/badge/Three.js-00D4FF?style=flat-square&logo=three.js&logoColor=0D1117)
+`React` `Next.js` `Astro` `Tailwind CSS` `Three.js`
 
 **Backend**
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-aaaaaa?style=flat-square&logo=flask&logoColor=0D1117)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-aaaaaa?style=flat-square&logo=express&logoColor=0D1117)
+`Laravel` `Flask` `Node.js` `Express.js`
 
 **Databases**
+`MySQL` `PostgreSQL` `MongoDB` `Supabase` `Firebase`
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=0D1117)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=0D1117)
-
-**Deploy & Cloud**
-
-![Vercel](https://img.shields.io/badge/Vercel-white?style=flat-square&logo=vercel&logoColor=0D1117)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=0D1117)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=0D1117)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=0D1117)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+**Deploy**
+`Vercel` `Netlify` `Render` `AWS` `Docker`
 
 ---
 
-## `// GITHUB STATS`
+## Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Ye-Thihaa&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FFB3&text_color=00D4FF&icon_color=00FFB3&ring_color=00FFB3" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ye-Thihaa&layout=compact&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FFB3&text_color=00D4FF" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Ye-Thihaa&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&text_color=555555&icon_color=000000&include_all_commits=true&count_private=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ye-Thihaa&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=555555&langs_count=6" />
 </div>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Ye-Thihaa&theme=merko&hide_border=true&background=0D1117&stroke=00FFB3&ring=00D4FF&fire=00FFB3&currStreakLabel=00D4FF&sideLabels=00FFB3" />
-</div>
-
----
-
-## `// CONTRIBUTION GRAPH`
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ye-Thihaa&bg_color=0D1117&color=00FFB3&line=00D4FF&point=00FFB3&area_color=00FFB320&area=true&hide_border=true" />
-</div>
-
----
-
-## `// CONNECT`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300FFB3?style=flat-square&logo=linkedin&logoColor=0D1117)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-%2300D4FF?style=flat-square&logo=twitter&logoColor=0D1117)](https://twitter.com/your-handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2300FFB3?style=flat-square&logo=google-chrome&logoColor=0D1117)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-%2300D4FF?style=flat-square&logo=gmail&logoColor=0D1117)](mailto:your.email@gmail.com)
-
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Ye-Thihaa&hide_border=true&background=ffffff&stroke=cccccc&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=555555&dates=999999" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
-  
-  `> thanks for visiting // stay curious // keep building`
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ye-Thihaa&bg_color=ffffff&color=000000&line=000000&point=000000&area_color=f5f5f5&area=true&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
