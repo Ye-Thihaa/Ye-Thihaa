@@ -67,14 +67,19 @@ Interested in advanced React patterns, system design, and open source collaborat
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Ye-Thihaa&show_icons=true&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&bg_color=0d1117&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ye-Thihaa&layout=compact&hide_border=true&title_color=ffffff&text_color=aaaaaa&bg_color=0d1117&langs_count=6" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ye-Thihaa&theme=onestar&no-frame=true&row=1&column=6)](https://github.com/Ye-Thihaa)
 
 </div>
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Ye-Thihaa&hide_border=true&background=0d1117&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=aaaaaa&sideLabels=aaaaaa&dates=555555&currStreakNum=ffffff&sideNums=ffffff" />
+
+</div>
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=Ye-Thihaa&style=flat-square&color=000000&label=profile+views)
 
 </div>
 
