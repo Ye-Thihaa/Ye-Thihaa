@@ -1,67 +1,89 @@
 <div align="center">
 
-# Ye-Thihaa
-
-Frontend Developer — building clean, fast, thoughtful web experiences.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+```
+Ye-Thihaa / README.md
+```
 
 </div>
 
 ---
 
-Currently building full-stack web applications and studying advanced React patterns & system design. Open to collaborating on meaningful open source projects.
+### Frontend Developer
 
-> Ask me about web development, APIs, and database design.  
-> Fun fact: I debug with `console.log` and I'm not ashamed.
+Building full-stack web applications with a focus on clean architecture and thoughtful UX.
+Interested in advanced React patterns, system design, and open source collaboration.
 
 ---
-
-## Stack
 
 **Languages**
-`C++` `Java` `JavaScript` `Python` `TypeScript`
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript)
+![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/Java-000?style=flat-square&logo=openjdk)
+![C++](https://img.shields.io/badge/C++-000?style=flat-square&logo=cplusplus)
 
 **Frontend**
-`React` `Next.js` `Astro` `Tailwind CSS` `Three.js`
 
-**Backend**
-`Laravel` `Flask` `Node.js` `Express.js`
+![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![Astro](https://img.shields.io/badge/Astro-000?style=flat-square&logo=astro)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-000?style=flat-square&logo=tailwindcss)
+![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=three.js)
 
-**Databases**
-`MySQL` `PostgreSQL` `MongoDB` `Supabase` `Firebase`
+**Backend & Database**
 
-**Deploy**
-`Vercel` `Netlify` `Render` `AWS` `Docker`
+![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express)
+![Laravel](https://img.shields.io/badge/Laravel-000?style=flat-square&logo=laravel)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb)
+![Supabase](https://img.shields.io/badge/Supabase-000?style=flat-square&logo=supabase)
+![Firebase](https://img.shields.io/badge/Firebase-000?style=flat-square&logo=firebase)
 
----
+**Deployment**
 
-## Stats
-
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Ye-Thihaa&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&text_color=555555&icon_color=000000&include_all_commits=true&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ye-Thihaa&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=555555&langs_count=6" />
-</div>
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Ye-Thihaa&hide_border=true&background=ffffff&stroke=cccccc&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=555555&dates=999999" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ye-Thihaa&bg_color=ffffff&color=000000&line=000000&point=000000&area_color=f5f5f5&area=true&hide_border=true" />
-</div>
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel)
+![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-000?style=flat-square&logo=amazon-aws)
+![Render](https://img.shields.io/badge/Render-000?style=flat-square&logo=render)
+![Netlify](https://img.shields.io/badge/Netlify-000?style=flat-square&logo=netlify)
 
 ---
 
+**Current focus**
+
+```
+01  Full-stack web applications
+02  Advanced React patterns & system design
+03  Open source collaboration
+04  Web development, APIs & database design
+```
+
+---
+
+**GitHub**
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Ye-Thihaa&show_icons=true&hide_border=true&title_color=000000&text_color=555555&icon_color=000000&bg_color=ffffff&include_all_commits=true&count_private=true&rank_icon=github)&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ye-Thihaa&layout=compact&hide_border=true&title_color=000000&text_color=555555&bg_color=ffffff&langs_count=6)
+
+![Streak](https://nirzak-streak-stats.vercel.app/?user=Ye-Thihaa&hide_border=true&background=ffffff&stroke=000000&ring=000000&fire=000000&currStreakLabel=555555&sideLabels=555555&dates=555555&currStreakNum=000000&sideNums=000000)
+
+</div>
+
+---
+
+**Connect**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-000?style=flat-square&logo=twitter)](https://twitter.com/your-handle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=google-chrome)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-000?style=flat-square&logo=gmail)](mailto:your.email@gmail.com)
+
+---
+
+<div align="center">
+<sub>debugs with console.log — no apologies</sub>
 </div>
