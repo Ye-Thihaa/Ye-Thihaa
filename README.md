@@ -76,7 +76,7 @@ Interested in advanced React patterns, system design, and open source collaborat
 
 **Connect**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=google-chrome)](https://ysurf.vercek.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=google-chrome)](https://ysurf.vercel.com)
 [![Email](https://img.shields.io/badge/Email-000?style=flat-square&logo=gmail)](mailto:yethihahtun1494@gmail.com)
 
 ---
