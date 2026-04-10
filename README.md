@@ -10,7 +10,7 @@ Ye-Thihaa / README.md
 
 ### Frontend Developer
 
-Building full-stack web applications with a focus on clean architecture and thoughtful UX.
+Building full-stack web applications with a focus on clean architecture and thoughtful UX.  
 Interested in advanced React patterns, system design, and open source collaboration.
 
 ---
@@ -67,9 +67,14 @@ Interested in advanced React patterns, system design, and open source collaborat
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Ye-Thihaa&show_icons=true&hide_border=true&title_color=000000&text_color=555555&icon_color=000000&bg_color=ffffff&include_all_commits=true&count_private=true&rank_icon=github)&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ye-Thihaa&layout=compact&hide_border=true&title_color=000000&text_color=555555&bg_color=ffffff&langs_count=6)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Ye-Thihaa&show_icons=true&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&bg_color=0d1117&include_all_commits=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ye-Thihaa&layout=compact&hide_border=true&title_color=ffffff&text_color=aaaaaa&bg_color=0d1117&langs_count=6" />
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=Ye-Thihaa&hide_border=true&background=ffffff&stroke=000000&ring=000000&fire=000000&currStreakLabel=555555&sideLabels=555555&dates=555555&currStreakNum=000000&sideNums=000000)
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Ye-Thihaa&hide_border=true&background=0d1117&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=aaaaaa&sideLabels=aaaaaa&dates=555555&currStreakNum=ffffff&sideNums=ffffff" />
 
 </div>
 
