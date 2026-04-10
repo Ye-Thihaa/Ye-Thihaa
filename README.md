@@ -1,14 +1,11 @@
 <div align="center">
 
-```
-Ye-Thihaa / README.md
-```
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Frontend+Developer;Building+full-stack+web+applications)](https://git.io/typing-svg)
 
 </div>
 
 ---
-
-### Frontend Developer
 
 Building full-stack web applications with a focus on clean architecture and thoughtful UX.  
 Interested in advanced React patterns, system design, and open source collaboration.
@@ -65,11 +62,20 @@ Interested in advanced React patterns, system design, and open source collaborat
 
 **GitHub**
 
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=Ye-Thihaa&hide_border=true&background=0d1117&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=aaaaaa&sideLabels=aaaaaa&dates=555555&currStreakNum=ffffff&sideNums=ffffff" />
+</div>
+
+---
+
+**Contribution snake**
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Ye-Thihaa&hide_border=true&background=0d1117&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=aaaaaa&sideLabels=aaaaaa&dates=555555&currStreakNum=ffffff&sideNums=ffffff" />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ye-Thihaa/Ye-Thihaa/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ye-Thihaa/Ye-Thihaa/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Ye-Thihaa/Ye-Thihaa/output/github-contribution-grid-snake.svg" />
+</picture>
 </div>
 
 ---
